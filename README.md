@@ -27,7 +27,7 @@ source .venv/bin/activate   # .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
-Then open `test.ipynb` in Jupyter or VS Code, select the `.venv` kernel, and run all cells.
+Then open `portfolio_optimization.ipynb` in Jupyter or VS Code, select the `.venv` kernel, and run all cells.
 
 ## Credits
 
